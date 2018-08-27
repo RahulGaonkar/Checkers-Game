@@ -2,7 +2,7 @@
 An AI based application
 ## Synopsis
 1. Developed checkers game with different difficulty levels using alpha-beta tree search algorithm and 12 different heuristic functions.
-2. The user has the option of selecting who plays first(user or computer) and the difficulty level of the game(easy,medium,hard).
+2. The user has the option of selecting who plays first(user or computer) and the difficulty level of the game (easy,medium,hard).
 3. The different difficulty levels are implemented using different cut-off levels in the alpha-beta tree search algorithm and evaluation function which is a weighted sum of 12 different heuristics functions.
 4. The legal moves based on the rules of the game are highlighted in green for every user move.Human piece is a Red Checkers Piece and Computer Piece is a Blue Checkers Piece.
 5. Checkers Alpha-Beta Tree Statistics(i.e. Max depth reached,number of nodes expanded,number of times pruning occured,alpha-beta tree cut off level) are also displayed after every computer move.The maximum time for a computer move to take place is 15 seconds.

@@ -19,5 +19,5 @@ An AI based application
 5. A player wins when he/she captures all of the other player’s pieces. If both players do not have any legal move to take, the game will end and the player with the most number of pieces left wins; if the two players have the same number of pieces left, the game is a draw.
 ## How to Setup
 ### Steps :
-1 The Checkers Java Project has two Java classes namely CheckersJavaFXApplication and CheckersNutshell.
-2 The main method is in class CheckersJavaFXApplication which can be used to run the Java project.
+1. The Checkers Java Project has two Java classes namely CheckersJavaFXApplication and CheckersNutshell.
+2. The main method is in class CheckersJavaFXApplication which can be used to run the Java project.

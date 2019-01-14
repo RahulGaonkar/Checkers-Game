@@ -21,3 +21,5 @@ An AI based application
 ### Steps :
 1. The Checkers Java Project has two Java classes namely CheckersJavaFXApplication and CheckersNutshell.
 2. The main method is in class CheckersJavaFXApplication which can be used to run the Java project.
+## More
+[Project Description](Checkers_Game_AI_Project_Report_rpg283.pdf)

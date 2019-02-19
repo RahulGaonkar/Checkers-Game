@@ -12,8 +12,8 @@ An AI based application
 2. Each player starts out with six playing pieces.
 3. Each player takes turn to make a move. There are two types of moves: regular moves and capture moves.
    1. In a regular move, a piece can move forward diagonally to an adjacent square that is empty.
-   2. In a capture move, a piece can jump over and capture an opponent’s piece and land on an empty square (landing on a square that is         not empty is not allowed.)The jump must be in the forward diagonal direction and no consecutive jumps are allowed. In addition,   
-      every opportunity to jump must be taken. In the case where there are two or more possible jump moves, the player can choose which         one to take.
+   2. In a capture move, a piece can jump over and capture an opponent’s piece and land on an empty square (landing on a square that is         not empty is not allowed.)The jump must be in the forward diagonal direction and no consecutive jumps are allowed. In addition, every       opportunity to jump must be taken. In the case where there are two or more possible jump moves, the player can choose which one to    
+    take.
    3. No vertical, horizontal or backward moves are allowed for both regular and capture moves.
 4. If a player has no legal move to take, his/her turn will be forfeited and the other player will make the next move.
 5. A player wins when he/she captures all of the other player’s pieces. If both players do not have any legal move to take, the game will end and the player with the most number of pieces left wins; if the two players have the same number of pieces left, the game is a draw.
